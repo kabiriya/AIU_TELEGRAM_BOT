@@ -1,0 +1,2 @@
+BOT_TOKEN = "PRIVAT INFO"
+admin_id = PRIVAT INFO
